@@ -31,7 +31,7 @@ This Python program is a 3D interactive projectile motion game using the `vpytho
 1. Save the code to a Python file, e.g., `projectile_game.py`.
 2. Run the program:
    ```bash
-   python projectile_game.py
+   python final_assignment_copy_2.py
    ```
 3. Follow the prompts to input the angle and initial velocity for the egg launch.
 
